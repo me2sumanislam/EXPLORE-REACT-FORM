@@ -16,7 +16,7 @@
    return (
      <div>
           <form onSubmit={handleSubmit}>
-            <input ref ={emailRef} type="email" name="email" i  />
+            <input ref ={emailRef} type="email" name="email"  /> 
             <br />
             <input ref={passwordRef} type="password" name="password"  />
             <br />
